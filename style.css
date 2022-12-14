@@ -166,5 +166,5 @@ header{
 
 .image-center{
     display: flex;
-    flex-direction:column;
+    flex-direction:row;
 }
